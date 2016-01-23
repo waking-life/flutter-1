@@ -5,7 +5,7 @@ class PagesController < ApplicationController
   def home
   end
 
-  def profiile
+  def profile
   end
 
   def explore
